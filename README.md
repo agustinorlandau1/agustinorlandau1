@@ -27,8 +27,8 @@ Soy un estudiante de ingeniería informática, actualmente a mitad de mi carrera
 
 <h2>Estadísticas de GitHub:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=valentinawerle&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/agustinorlandau1)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=material-palenight)](https://github.com/agustinorlandau1)
+[![](https://github-readme-stats.vercel.app/api?username=agustinorlandau1&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/agustinorlandau1)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=agustinorlandau1&theme=material-palenight)](https://github.com/agustinorlandau1)
 </div>
 
 
