@@ -8,9 +8,11 @@
 
 Soy un estudiante de ingeniería informática, actualmente a mitad de mi carrera. Estoy ampliando mis conocimientos en desarrollo front-end y back-end, con el objetivo de mejorar mis habilidades y aplicarlas de forma práctica. Me apasiona aprender y crear cosas nuevas, útiles, innovadoras y creativas.
 
+Aquí está el texto con "HTML5":
+
 - 🌱 Actualmente estoy aprendiendo...  
-  - Java  
-  - Python  
+  - HTML5  
+  - CSS  
 - ✔ Pregúntame cualquier cosa, estaré encantado de ayudar.  
 - Fuera de la programación, 🎵 me encanta escuchar música, 🎮 jugar videojuegos, y 📖 leer sobre temas de tecnología y ciencia.  
 - 📫 Puedes contactarme en: <a href="agustinorlandau1@gmail.com">agustinorlandau1@gmail.com</a>
