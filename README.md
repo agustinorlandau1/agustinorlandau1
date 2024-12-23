@@ -7,15 +7,14 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
 Soy un estudiante de ingeniería informática, actualmente a mitad de mi carrera. Estoy ampliando mis conocimientos en desarrollo front-end y back-end, con el objetivo de mejorar mis habilidades y aplicarlas de forma práctica. Me apasiona aprender y crear cosas nuevas, útiles, innovadoras y creativas.
-- 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a>
+Claro, aquí tienes el texto con los guiones agregados:
 
+- 🌱 Actualmente estoy aprendiendo...  
+  - Java  
+  - Python  
+- ✔ Pregúntame cualquier cosa, estaré encantado de ayudar.  
+- Fuera de la programación, 🎵 me encanta escuchar música, 🎮 jugar videojuegos, y 📖 leer sobre temas de tecnología y ciencia.  
+- 📫 Puedes contactarme en: <a href="agustinorlandau1@gmail.com">agustinorlandau1@gmail.com</a>
 ## My Skills Include
 
 <h4> Languages </h4>
