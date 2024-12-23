@@ -4,7 +4,7 @@
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
 Soy un estudiante de ingeniería informática, actualmente a mitad de mi carrera. Estoy ampliando mis conocimientos en desarrollo front-end y back-end, con el objetivo de mejorar mis habilidades y aplicarlas de forma práctica. Me apasiona aprender y crear cosas nuevas, útiles, innovadoras y creativas.
 - 🌱 I’m currently learning ...
