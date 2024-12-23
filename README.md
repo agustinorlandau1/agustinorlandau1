@@ -7,7 +7,6 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
 Soy un estudiante de ingeniería informática, actualmente a mitad de mi carrera. Estoy ampliando mis conocimientos en desarrollo front-end y back-end, con el objetivo de mejorar mis habilidades y aplicarlas de forma práctica. Me apasiona aprender y crear cosas nuevas, útiles, innovadoras y creativas.
-Claro, aquí tienes el texto con los guiones agregados:
 
 - 🌱 Actualmente estoy aprendiendo...  
   - Java  
