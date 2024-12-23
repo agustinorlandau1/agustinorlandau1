@@ -14,7 +14,7 @@ Soy un estudiante de ingeniería informática, actualmente a mitad de mi carrera
 - ✔ Pregúntame cualquier cosa, estaré encantado de ayudar.  
 - Fuera de la programación, 🎵 me encanta escuchar música, 🎮 jugar videojuegos, y 📖 leer sobre temas de tecnología y ciencia.  
 - 📫 Puedes contactarme en: <a href="agustinorlandau1@gmail.com">agustinorlandau1@gmail.com</a>
-## My Skills Include
+## Mis Habilidades Incluyen
 
 <h4> Languages </h4>
 <span> 
