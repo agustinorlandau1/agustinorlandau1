@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola 👋 me llamo Agustin
+
+<p>Soy estudiante de programación</p>
 
 <!--
 **agustinorlandau1/agustinorlandau1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
