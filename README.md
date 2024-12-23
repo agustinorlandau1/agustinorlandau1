@@ -2,7 +2,7 @@
 
 <h1 align="center"><b>Hola, soy Agustín Orlandau</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="![image](https://github.com/user-attachments/assets/86f1c995-3052-4a9c-aadd-cae3667c3d62)
+<img align="right" width=300px alt="Unicorn" src="<iframe src="https://giphy.com/embed/hWhzyAxIu6rVS5AKbP" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tecnologia-robo-idealti-hWhzyAxIu6rVS5AKbP">via GIPHY</a></p>
 " />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
